@@ -1,12 +1,13 @@
+import ProfileContainer from './components/ProfileContainer'
 import './App.css'
-import ProfileCard from './components/ProfileCard'
+
 
 function App() {
   
 
   return (
     <>
-      <ProfileCard />
+      <ProfileContainer />
     </>
   )
 }
