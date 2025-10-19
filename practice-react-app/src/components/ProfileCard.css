@@ -1,0 +1,28 @@
+.profile-card {
+    border-style: solid;
+    border-radius: 1rem;
+    border-width: 2.5px;
+    border-color: black;
+    box-shadow: 4px 2px rgba(56, 56, 55, 0.5); 
+    padding: 2px;
+    padding-bottom: 0;
+    margin: 1rem;
+    background-color: darkseagreen;
+}
+
+.profile-name {
+    font-weight: 500;
+    font-size: medium;
+    padding: 1rem;
+}
+
+.profile-age {
+    margin: 1rem;
+    padding-bottom: 1rem;
+}
+
+.profile-bio {
+    margin: 1rem;
+    padding-bottom: 1rem;
+}
+
